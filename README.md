@@ -186,7 +186,7 @@ MIT
 <div align="center">
   <p>Made with ❤️ by <a href="https://github.com/kingsolomonwisdom">kingsolomonwisdom</a></p>
   
-  <a href="https://github.com/kingsolomonwisdom">
-    <img src="https://img.shields.io/github/followers/kingsolomonwisdom?label=Follow%20%40jcrvnx&style=social" alt="Follow @jcrvnx" />
+  <a href="https://github.com/jcrvnx">
+    <img src="https://img.shields.io/github/followers/jcrvnx?label=Follow%20%40jcrvnx&style=social" alt="Follow @jcrvnx" />
   </a>
 </div> 
