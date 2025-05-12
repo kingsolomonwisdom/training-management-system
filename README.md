@@ -12,7 +12,7 @@
 A comprehensive PHP-based system for managing training programs, users, and enrollments. Built with PHP and Bootstrap, it provides a robust solution for educational institutions, corporate training departments, and training providers.
 
 **An IT Project by Joel Moreno**  
-**Developed by [kingsolomonwisdom (Jcrist Vincent Orhen)](https://github.com/jcrvnx)**
+**Developed by [kingsolomonwisdom (Jcrist Vincent Orhen)](https://github.com/kingsolomonwisdom)**
 
 <a href="https://github.com/jcrvnx">
   <img src="https://img.shields.io/github/followers/jcrvnx?label=Follow%20%40jcrvnx&style=social" alt="Follow @jcrvnx" />
@@ -184,9 +184,9 @@ MIT
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/jcrvnx">kingsolomonwisdom</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/kingsolomonwisdom">kingsolomonwisdom</a></p>
   
-  <a href="https://github.com/jcrvnx">
-    <img src="https://img.shields.io/github/followers/jcrvnx?label=Follow%20%40jcrvnx&style=social" alt="Follow @jcrvnx" />
+  <a href="https://github.com/kingsolomonwisdom">
+    <img src="https://img.shields.io/github/followers/kingsolomonwisdom?label=Follow%20%40jcrvnx&style=social" alt="Follow @jcrvnx" />
   </a>
 </div> 
